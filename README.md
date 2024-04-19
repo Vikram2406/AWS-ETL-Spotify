@@ -1,6 +1,7 @@
 # Spotify ETL Symphony: Harmonizing Data Flow on AWS
 
-!["C:\Users\vikra\Desktop\AWS Spotify.webp"](Projectlogo.png)
+
+![image](https://github.com/Vikram2406/Spotify_Data-Engineering_End-To-End-ETL-Project/assets/145156381/c8197cd4-ef06-4d7e-8d72-1cdf89b84c03)
 
 ## Overview
 
