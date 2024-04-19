@@ -1,6 +1,6 @@
 # Spotify ETL Symphony: Harmonizing Data Flow on AWS
 
-![Project Logo](project_logo.png)
+![Project Logo]("C:\Users\vikra\Desktop\AWS Spotify.webp")
 
 ## Overview
 
@@ -58,3 +58,5 @@ spotify-etl-symphony/
 └── README.md
 ```
 
+Author : Vikram Biradar
+Date : 20 April 2024
