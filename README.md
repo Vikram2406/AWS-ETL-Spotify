@@ -59,5 +59,6 @@ spotify-etl-symphony/
 └── README.md
 ```
 
-Author : Vikram Biradar
+Author : Vikram Biradar.
+
 Date : 20 April 2024
