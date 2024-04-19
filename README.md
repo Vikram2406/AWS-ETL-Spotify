@@ -21,7 +21,7 @@ To get started with the Spotify ETL Symphony project, follow these steps:
 
 1. **Clone the Repository**: Clone this repository to your local machine using the following command:
    ```
-   [git clone https://github.com/yourusername/spotify-etl-symphony.git](https://github.com/Vikram2406/AWS-ETL-Spotify.git)
+   [git clone https://github.com/Vikram2406/AWS-ETL-Spotify.git]
    ```
 
 2. **Set Up AWS Environment**: Set up your AWS environment, including IAM roles, S3 buckets, AWS Glue, Athena, and QuickSight, according to the project requirements.
